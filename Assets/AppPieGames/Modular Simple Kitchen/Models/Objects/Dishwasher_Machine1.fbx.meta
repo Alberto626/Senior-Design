@@ -1,0 +1,373 @@
+fileFormatVersion: 2
+guid: f35f03d3c5aa4f64e9765baa04b1ccaf
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      74: 3127227904829968297
+    second: Dishwasher_Machine|Dishwasher_Door|Take 001|BaseLayer
+  - first:
+      74: 2440769656287393692
+    second: Dishwasher_Machine|Dishwasher_Door|Take 001|BaseLayer.001
+  - first:
+      74: -9080869141232122923
+    second: Dishwasher_Machine|Dishwasher_Machine|Take 001|BaseLayer
+  - first:
+      74: 5531974903667954134
+    second: Dishwasher_Machine|Dishwasher_Machine|Take 001|BaseLayer.001
+  - first:
+      74: -6097568322099318009
+    second: Dishwasher_Machine|Gas stove001|Take 001|BaseLayer
+  - first:
+      74: 2287536536526302079
+    second: Dishwasher_Machine|Gas stove001|Take 001|BaseLayer.001
+  - first:
+      74: 2155761451132837231
+    second: Dishwasher_Machine|Gas stove001|Take 001|BaseLayer.002
+  - first:
+      74: -1691908848243037538
+    second: Dishwasher_Machine|Gas stove001|Take 001|BaseLayer.003
+  - first:
+      74: 3574695066734381673
+    second: Dishwasher_Machine|Gas stove001|Take 001|BaseLayer.004
+  - first:
+      74: 2156357381633916267
+    second: Dishwasher_Machine|Gas stove001|Take 001|BaseLayer.005
+  - first:
+      74: 2480569549793783793
+    second: Dishwasher_Machine|Gas_Stove01|Take 001|BaseLayer
+  - first:
+      74: -337587619946215461
+    second: Dishwasher_Machine|Gas_Stove|Take 001|BaseLayer
+  - first:
+      74: 1029248669644215893
+    second: Dishwasher_Machine|Gas_Stove|Take 001|BaseLayer.001
+  - first:
+      74: -8878215691194565652
+    second: Dishwasher_Machine|Gas_Stove|Take 001|BaseLayer.002
+  - first:
+      74: -3562911928059737252
+    second: Dishwasher_Machine|Gas_Stove|Take 001|BaseLayer.003
+  - first:
+      74: 4424809529118494228
+    second: Dishwasher_Machine|Gas_Stove|Take 001|BaseLayer.004
+  - first:
+      74: -5722745129077752080
+    second: Dishwasher_Machine|Gas_Stove|Take 001|BaseLayer.005
+  - first:
+      74: -1757536376150046075
+    second: Dishwasher_Machine|Gas_Stove|Take 001|BaseLayer.006
+  - first:
+      74: 2976116792170132190
+    second: Dishwasher_Machine|Refrigerator.001|Take 001|BaseLayer
+  - first:
+      74: 7752247502436553077
+    second: Dishwasher_Machine|Refrigerator.001|Take 001|BaseLayer.001
+  - first:
+      74: -4862846559696349962
+    second: Dishwasher_Machine|Refrigerator.001|Take 001|BaseLayer.002
+  - first:
+      74: -3766364005775325367
+    second: Dishwasher_Machine|Refrigerator.001|Take 001|BaseLayer.003
+  - first:
+      74: 2597663510720623430
+    second: Dishwasher_Machine|Refrigerator.002|Take 001|BaseLayer
+  - first:
+      74: 5031689117650758123
+    second: Dishwasher_Machine|Refrigerator.002|Take 001|BaseLayer.001
+  - first:
+      74: 6660876712581464644
+    second: Dishwasher_Machine|Refrigerator.002|Take 001|BaseLayer.002
+  - first:
+      74: 4658485309437679014
+    second: Dishwasher_Machine|Refrigerator.002|Take 001|BaseLayer.003
+  - first:
+      74: -2462935055721288583
+    second: Dishwasher_Machine|Refrigerator00|Take 001|BaseLayer
+  - first:
+      74: 21870496405964280
+    second: Dishwasher_Machine|Refrigerator00|Take 001|BaseLayer.001
+  - first:
+      74: -2472342254807871246
+    second: Dishwasher_Machine|Refrigerator00|Take 001|BaseLayer.002
+  - first:
+      74: -8138275694905258538
+    second: Dishwasher_Machine|Refrigerator01.001|Take 001|BaseLayer
+  - first:
+      74: 1789795488451124913
+    second: Dishwasher_Machine|Refrigerator01.002|Take 001|BaseLayer
+  - first:
+      74: 4442930256420394823
+    second: Dishwasher_Machine|Refrigerator01|Take 001|BaseLayer
+  - first:
+      74: 6094067830757067091
+    second: Dishwasher_Machine|Refrigerator01|Take 001|BaseLayer.001
+  - first:
+      74: -5682934324122882666
+    second: Dishwasher_Machine|Refrigerator01|Take 001|BaseLayer.002
+  - first:
+      74: 5763636149814390021
+    second: Dishwasher_Machine|Refrigerator01|Take 001|BaseLayer.003
+  - first:
+      74: 7226176496812001438
+    second: Dishwasher_Machine|Refrigerator02|Take 001|BaseLayer
+  - first:
+      74: -3618009322116094828
+    second: Dishwasher_Machine|Refrigerator02|Take 001|BaseLayer.001
+  - first:
+      74: 6653842634677392031
+    second: Dishwasher_Machine|Refrigerator02|Take 001|BaseLayer.002
+  - first:
+      74: -5436171866744262993
+    second: Dishwasher_Machine|Refrigerator_Door.001|Take 001|BaseLayer
+  - first:
+      74: -9044398159622403970
+    second: Dishwasher_Machine|Refrigerator_Door|Take 001|BaseLayer
+  - first:
+      74: -3097697812772984296
+    second: Dishwasher_Machine|Refrigerator|Take 001|BaseLayer
+  - first:
+      74: -3830466352550482681
+    second: Dishwasher_Machine|Refrigerator|Take 001|BaseLayer.001
+  - first:
+      74: 112713985788809995
+    second: Dishwasher_Machine|Refrigerator|Take 001|BaseLayer.002
+  - first:
+      74: -7448764344735689153
+    second: Dishwasher_Machine|Refrigerator|Take 001|BaseLayer.003
+  - first:
+      74: -2928959654034734713
+    second: Dishwasher_Machine|Refrigerator|Take 001|BaseLayer.004
+  - first:
+      74: -529917062819401868
+    second: Dishwasher_Machine|Washing machine|Take 001|BaseLayer
+  - first:
+      74: 6319130130340937306
+    second: Dishwasher_Door|Dishwasher_Door|Take 001|BaseLayer
+  - first:
+      74: -3262860396079376382
+    second: Dishwasher_Door|Dishwasher_Door|Take 001|BaseLayer.001
+  - first:
+      74: -354806162170882754
+    second: Dishwasher_Door|Dishwasher_Machine|Take 001|BaseLayer
+  - first:
+      74: -3789179720522094152
+    second: Dishwasher_Door|Dishwasher_Machine|Take 001|BaseLayer.001
+  - first:
+      74: -8872410824439708503
+    second: Dishwasher_Door|Gas stove001|Take 001|BaseLayer
+  - first:
+      74: -3262865747275717981
+    second: Dishwasher_Door|Gas stove001|Take 001|BaseLayer.001
+  - first:
+      74: 7885591412498546407
+    second: Dishwasher_Door|Gas stove001|Take 001|BaseLayer.002
+  - first:
+      74: -6105151184464681648
+    second: Dishwasher_Door|Gas stove001|Take 001|BaseLayer.003
+  - first:
+      74: -443746897161833081
+    second: Dishwasher_Door|Gas stove001|Take 001|BaseLayer.004
+  - first:
+      74: 1421278483422416549
+    second: Dishwasher_Door|Gas stove001|Take 001|BaseLayer.005
+  - first:
+      74: 9005053971671615334
+    second: Dishwasher_Door|Gas_Stove01|Take 001|BaseLayer
+  - first:
+      74: 869824300426518135
+    second: Dishwasher_Door|Gas_Stove|Take 001|BaseLayer
+  - first:
+      74: 7206867857074906735
+    second: Dishwasher_Door|Gas_Stove|Take 001|BaseLayer.001
+  - first:
+      74: -6358647309162307464
+    second: Dishwasher_Door|Gas_Stove|Take 001|BaseLayer.002
+  - first:
+      74: 807853744889169609
+    second: Dishwasher_Door|Gas_Stove|Take 001|BaseLayer.003
+  - first:
+      74: 7458542100279993413
+    second: Dishwasher_Door|Gas_Stove|Take 001|BaseLayer.004
+  - first:
+      74: 7305743181871059194
+    second: Dishwasher_Door|Gas_Stove|Take 001|BaseLayer.005
+  - first:
+      74: -4905029797241867357
+    second: Dishwasher_Door|Gas_Stove|Take 001|BaseLayer.006
+  - first:
+      74: -4283181516555569347
+    second: Dishwasher_Door|Refrigerator.001|Take 001|BaseLayer
+  - first:
+      74: -1925500481775898765
+    second: Dishwasher_Door|Refrigerator.001|Take 001|BaseLayer.001
+  - first:
+      74: 7478126124893598538
+    second: Dishwasher_Door|Refrigerator.001|Take 001|BaseLayer.002
+  - first:
+      74: -5764081297806787609
+    second: Dishwasher_Door|Refrigerator.001|Take 001|BaseLayer.003
+  - first:
+      74: -8088404045225019499
+    second: Dishwasher_Door|Refrigerator.002|Take 001|BaseLayer
+  - first:
+      74: -5687689162033076891
+    second: Dishwasher_Door|Refrigerator.002|Take 001|BaseLayer.001
+  - first:
+      74: -3573126559586805326
+    second: Dishwasher_Door|Refrigerator.002|Take 001|BaseLayer.002
+  - first:
+      74: -4394613202065019946
+    second: Dishwasher_Door|Refrigerator.002|Take 001|BaseLayer.003
+  - first:
+      74: 2844248522994889532
+    second: Dishwasher_Door|Refrigerator00|Take 001|BaseLayer
+  - first:
+      74: -9077995235921871023
+    second: Dishwasher_Door|Refrigerator00|Take 001|BaseLayer.001
+  - first:
+      74: -7804030193391863394
+    second: Dishwasher_Door|Refrigerator00|Take 001|BaseLayer.002
+  - first:
+      74: -3954909102910460612
+    second: Dishwasher_Door|Refrigerator01.001|Take 001|BaseLayer
+  - first:
+      74: -1976055479882890589
+    second: Dishwasher_Door|Refrigerator01.002|Take 001|BaseLayer
+  - first:
+      74: 5099250813800910101
+    second: Dishwasher_Door|Refrigerator01|Take 001|BaseLayer
+  - first:
+      74: -4598072873401411388
+    second: Dishwasher_Door|Refrigerator01|Take 001|BaseLayer.001
+  - first:
+      74: 5111584965726221762
+    second: Dishwasher_Door|Refrigerator01|Take 001|BaseLayer.002
+  - first:
+      74: -8330781276604694861
+    second: Dishwasher_Door|Refrigerator01|Take 001|BaseLayer.003
+  - first:
+      74: -8878985460921817356
+    second: Dishwasher_Door|Refrigerator02|Take 001|BaseLayer
+  - first:
+      74: 8481499846800994811
+    second: Dishwasher_Door|Refrigerator02|Take 001|BaseLayer.001
+  - first:
+      74: -4963588092741214005
+    second: Dishwasher_Door|Refrigerator02|Take 001|BaseLayer.002
+  - first:
+      74: 923007499546762740
+    second: Dishwasher_Door|Refrigerator_Door.001|Take 001|BaseLayer
+  - first:
+      74: -1676413129925448162
+    second: Dishwasher_Door|Refrigerator_Door|Take 001|BaseLayer
+  - first:
+      74: -742679716219023620
+    second: Dishwasher_Door|Refrigerator|Take 001|BaseLayer
+  - first:
+      74: -7206900591526225049
+    second: Dishwasher_Door|Refrigerator|Take 001|BaseLayer.001
+  - first:
+      74: 4750099837326222977
+    second: Dishwasher_Door|Refrigerator|Take 001|BaseLayer.002
+  - first:
+      74: -7318772671407500383
+    second: Dishwasher_Door|Refrigerator|Take 001|BaseLayer.003
+  - first:
+      74: 3955355718574485654
+    second: Dishwasher_Door|Refrigerator|Take 001|BaseLayer.004
+  - first:
+      74: 1516301022302965236
+    second: Dishwasher_Door|Washing machine|Take 001|BaseLayer
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

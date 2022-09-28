@@ -1,0 +1,187 @@
+fileFormatVersion: 2
+guid: a8317ef70a1a2c44fbc04f24b007ffa6
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      74: -5046870357326454441
+    second: Gas_Stove01|Gas stove001|Take 001|BaseLayer
+  - first:
+      74: 1270471066413646045
+    second: Gas_Stove01|Gas stove001|Take 001|BaseLayer.001
+  - first:
+      74: -5311337274666253653
+    second: Gas_Stove01|Gas stove001|Take 001|BaseLayer.002
+  - first:
+      74: -331830342463639549
+    second: Gas_Stove01|Gas stove001|Take 001|BaseLayer.003
+  - first:
+      74: 7625164413973638749
+    second: Gas_Stove01|Gas stove001|Take 001|BaseLayer.004
+  - first:
+      74: 1102674595412766572
+    second: Gas_Stove01|Gas stove001|Take 001|BaseLayer.005
+  - first:
+      74: -7121322533345089036
+    second: Gas_Stove01|Gas_Stove01|Take 001|BaseLayer
+  - first:
+      74: 6534038225256634426
+    second: Gas_Stove01|Gas_Stove|Take 001|BaseLayer
+  - first:
+      74: 164314916917174828
+    second: Gas_Stove01|Gas_Stove|Take 001|BaseLayer.001
+  - first:
+      74: 2807812066427261720
+    second: Gas_Stove01|Gas_Stove|Take 001|BaseLayer.002
+  - first:
+      74: 8792431537489509198
+    second: Gas_Stove01|Gas_Stove|Take 001|BaseLayer.003
+  - first:
+      74: -422464572570381712
+    second: Gas_Stove01|Gas_Stove|Take 001|BaseLayer.004
+  - first:
+      74: -484995329411311234
+    second: Gas_Stove01|Gas_Stove|Take 001|BaseLayer.005
+  - first:
+      74: -2835291605502375796
+    second: Gas_Stove01|Gas_Stove|Take 001|BaseLayer.006
+  - first:
+      74: 2093354113709396701
+    second: Gas_Stove01|Washing machine|Take 001|BaseLayer
+  - first:
+      74: -4156156099096586625
+    second: Gas_Stove|Gas stove001|Take 001|BaseLayer
+  - first:
+      74: 5397630564802967248
+    second: Gas_Stove|Gas stove001|Take 001|BaseLayer.001
+  - first:
+      74: -1795003151674562821
+    second: Gas_Stove|Gas stove001|Take 001|BaseLayer.002
+  - first:
+      74: -3507195310032714208
+    second: Gas_Stove|Gas stove001|Take 001|BaseLayer.003
+  - first:
+      74: 4208705263272875295
+    second: Gas_Stove|Gas stove001|Take 001|BaseLayer.004
+  - first:
+      74: -8528402668224375632
+    second: Gas_Stove|Gas stove001|Take 001|BaseLayer.005
+  - first:
+      74: 2904683541288690155
+    second: Gas_Stove|Gas_Stove01|Take 001|BaseLayer
+  - first:
+      74: 8951348098877671849
+    second: Gas_Stove|Gas_Stove|Take 001|BaseLayer
+  - first:
+      74: -6104891629609479326
+    second: Gas_Stove|Gas_Stove|Take 001|BaseLayer.001
+  - first:
+      74: -7448382803336687600
+    second: Gas_Stove|Gas_Stove|Take 001|BaseLayer.002
+  - first:
+      74: -7017964341284817693
+    second: Gas_Stove|Gas_Stove|Take 001|BaseLayer.003
+  - first:
+      74: -5709123974438680626
+    second: Gas_Stove|Gas_Stove|Take 001|BaseLayer.004
+  - first:
+      74: 8707230333983961516
+    second: Gas_Stove|Gas_Stove|Take 001|BaseLayer.005
+  - first:
+      74: 206129176109475873
+    second: Gas_Stove|Gas_Stove|Take 001|BaseLayer.006
+  - first:
+      74: -1794889534611365049
+    second: Gas_Stove|Washing machine|Take 001|BaseLayer
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
