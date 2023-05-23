@@ -37,5 +37,4 @@ Hardware Limitations: Depending on the specifications of your computer and VR he
 
 Health and Safety: When using VR technology, take regular breaks to avoid discomfort, eye strain, or motion sickness. Follow the guidelines provided by the VR headset manufacturer for safe usage.
 
-## Conclusion
-Thank you for your interest in our Senior Design Project! We hope you enjoy playing our VR game and have a fantastic immersive experience. Should you have any questions or encounter any issues, please reach out to our team for assistance. Happy gaming!
+## [Demo](https://www.youtube.com/watch?v=93WAUp5h7TE)
